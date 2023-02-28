@@ -1,0 +1,33 @@
+{
+  "name": "@eliancodes/eslint-config",
+  "version": "0.0.1",
+  "description": "ElianCodes ESLint config",
+  "main": "index.js",
+  "exports": {
+    "import": "./index.js",
+    "require": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElianCodes/eslint-config.git"
+  },
+  "keywords": [
+    "ESLint"
+  ],
+  "author": {
+    "name": "Elian Van Cutsem",
+    "email": "hello@elian.codes",
+    "url": "https://www.elian.codes"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElianCodes/eslint-config/issues"
+  },
+  "homepage": "https://github.com/ElianCodes/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
